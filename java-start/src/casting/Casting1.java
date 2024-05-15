@@ -11,7 +11,7 @@ public class Casting1 {
         System.out.println("longValue = " + longValue);  // longValue = 10
         
         doubleValue = intValue;  // int -> double
-        System.out.println("doubleValue = " + doubleValue);  // doubleValue1 = 10.0
+        System.out.println("doubleValue1 = " + doubleValue);  // doubleValue1 = 10.0
 
         doubleValue = 20L;  // long -> double
         System.out.println("doubleValue2 = " + doubleValue);  //doubleValue2 = 20.0
